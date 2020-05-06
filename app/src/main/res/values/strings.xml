@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">AndroidModulis</string>
-    <string name="HelloWorld">Hello World!</string>
+    <string name="helloWorld">Hello World!</string>
+    <string name="button">Button</string>
+    <string name="textFieldEmpty">Text field is empty</string>
+    <string name="spinnerPrompt">"Select what you want to calculate"</string>
+    <string-array name="spinner_array">
+        <item>Words</item>
+        <item>Chars</item>
+    </string-array>
 </resources>
